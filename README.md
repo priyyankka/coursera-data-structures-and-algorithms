@@ -1,9 +1,10 @@
-coursera-Data-Structures-and-Algorithms-specialization
+# coursera-Data-Structures-and-Algorithms-specialization
 Repo for coursera specialization Data Structures and Algorithms by University of California, San Diego
 
-I'm using python and c++ to solve the algorithms problems.
+I'm using python, java and c++ to solve the algorithms problems.
 
-Todo
-Algorithmic Toolbox
-Data Structures
-Algorithms on Graphs
+### Todo
+
+1. ~~Algorithmic Toolbox~~
+2. ~~Data Structures~~
+3. ~~Algorithms on Graphs~~
